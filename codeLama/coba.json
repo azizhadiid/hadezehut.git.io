@@ -1,0 +1,31 @@
+[
+    {
+        "nama": "aziz",
+        "umur": 19,
+        "nim": "F1E123024",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Shandika Galih",
+            "pembimbing2": "Erik Doank" 
+        }
+    },
+    {
+        
+        "nama": "hadiid",
+        "umur": 19,
+        "nim": "F1E123034",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "belajar"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Shandika Galih",
+            "pembimbing2": "Erik Doank" 
+        }
+    }
+]
